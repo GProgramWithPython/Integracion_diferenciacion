@@ -1,0 +1,3 @@
+Copiar y abrir el siguiente link en una nueva pestaña para visualizar el código de Python
+
+https://nbviewer.jupyter.org/github/GProgramWithPython/Integracion_diferenciacion/blob/main/MN%20de%20Diferenciacio%CC%81n%20con%20Python.ipynb
