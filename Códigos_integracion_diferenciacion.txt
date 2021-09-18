@@ -1,0 +1,5 @@
+Integración: 
+https://nbviewer.jupyter.org/github/GProgramWithPython/Integracion_diferenciacion/blob/main/MN%20Integracio%CC%81n%20Simpson.ipynb
+
+Diferenciación: 
+https://nbviewer.jupyter.org/github/GProgramWithPython/Integracion_diferenciacion/blob/main/MN%20de%20Diferenciacio%CC%81n%20con%20Python.ipynb
